@@ -29,7 +29,7 @@ No MVC, a View envia uma ação ao Controller, que utiliza o Model para trabalha
 
 Na API, o front-end envia uma requisição ao Controller, que chama o Service e o Repository quando necessário. Depois, a API retorna uma resposta ao front-end.
 
-## 4. Persistência em um banco de dados?
+## 4. Persistência em um banco de dados.
 
 Nos dois modelos, a persistência permite armazenar informações no banco de dados.
 
